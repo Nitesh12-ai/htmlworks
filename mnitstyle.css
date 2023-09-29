@@ -1,0 +1,37 @@
+h1 {
+    color : white;
+    background: grey;
+    font_style: italic;
+
+}
+
+html {
+    background-color: "https://idr.mnit.ac.in/image/MNIT_Banner.png";
+    
+}
+
+t{
+    color: red;
+    background : "https://idr.mnit.ac.in/image/MNIT_Banner.png";
+    font-size: larger;
+}
+
+.box {
+    width :20px;
+    height: 150px;
+    background : black;
+    margin : 500px;
+    border : 2px solide red;
+    position: absolute;
+    
+}
+
+a{
+    color : yellow;
+    text-align: center;
+
+}
+h2{
+    color : red;
+    
+}
